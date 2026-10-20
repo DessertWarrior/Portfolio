@@ -1,0 +1,21 @@
+
+
+ _______  _______  _______  _______  __
+|       ||       ||       ||       ||  |
+|   _   ||   _   ||    _  ||  _____||  | 
+|  | |  ||  | |  ||   |_| || |_____ |  |
+|  |_|  ||  |_|  ||    ___||_____  ||__|
+|       ||       ||   |     _____| | __
+|_______||_______||___|    |_______||__| 
+
+
+Line  Statement
+---------------
+   1   /* Mobile styles */
+   2   @media screen and (max-width: 768px) {
+   3     .gallery-reel {
+   4       {
+       ....^
+
+
+SyntaxError INCOMPLETE_PARSE Unable to complete parse.
